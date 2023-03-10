@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br/>
   
-  ### 👩🏻‍💻 My Github Stack 👩🏻‍💻
+  ### 👩🏻‍💻 My Github Stats 👩🏻‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjjjeongwon&show_icons=true&theme=radical)
  
