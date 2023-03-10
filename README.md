@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeongwon%20Park&desc=Front-end%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)  
   
-  **👋🏻 Hi there**     
-  If you have any questions, feel free to contact me!    
+  #### 👋🏻 Hi there<br/>If you have any questions, feel free to contact me!    
   <br/>
 
   ### 🛠 Tech Stack 🛠
