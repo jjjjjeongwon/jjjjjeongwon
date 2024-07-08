@@ -1,6 +1,12 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeongwon%20Park&desc=Front-end%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)  
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jjjjjeongwon"
+  width="600"
+  height="300"
+/>
+</a>
   
   #### 👋🏻 Hi there<br/>If you have any questions, feel free to contact me!    
   <br/>
